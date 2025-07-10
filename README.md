@@ -23,3 +23,22 @@ This project showcases a clean and visually appealing recipe page for homemade c
 
 ## 📁 Project Structure
 
+
+## 📸 Screenshot
+
+![Preview of the recipe page](images/screenshot.jpg)  
+
+## 🧠 What I Learned
+
+- Structuring semantic HTML for recipe content
+- Styling with CSS for visual appeal
+- Creating responsive layouts using media queries
+
+## 📬 Contact
+
+Created by [@Jesusesp85](https://github.com/Jesusesp85)  
+Feel free to reach out with feedback or suggestions!
+
+---
+
+
